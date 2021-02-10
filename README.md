@@ -1,4 +1,4 @@
-### Moshimoshi~ I'm B4MB4N9img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Moshimoshi~ I'm B4MB4N9 
 <p align="center">
 <a href="https://github.com/NazwaS"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/Nazwa.jpg"></a>
 </p>
