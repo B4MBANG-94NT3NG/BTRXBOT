@@ -1,4 +1,4 @@
-### Moshimoshi~ I'm Nazwa<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+### Moshimoshi~ I'm B4MB4N9 img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
 <a href="https://github.com/NazwaS"><img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/Nazwa.jpg"></a>
 </p>
@@ -10,7 +10,7 @@
 <a href="#"><img title="termux-whatsapp-bot" src="https://img.shields.io/badge/-TERMUX--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-NAZWAS-orange?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/NazwaS"><img title="Author" src="https://img.shields.io/badge/AUTHOR-B4MB4N9-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
     <a href="https://github.com/NazwaS/followers"><img title="Followers" src="https://img.shields.io/github/followers/NazwaS?style=flat-square"></a>
@@ -29,9 +29,9 @@
 <details>
  <summary>🍙 Help me!</summary>
  
- [Saweria](https://saweria.co/nazwas)
+ [Saweria](https://saweria.co/BTRXBOT)
 
- [Trakteer](https://trakteer.id/NazwaS)
+
  
 </details>
 </div>
@@ -135,8 +135,8 @@ Follow The Steps Below!
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/B4MBANG-94NT3NG/BTRXBOT
+> cd BTRXBOT
 > bash install.sh
 ```
 
@@ -168,7 +168,7 @@ Follow The Steps Below!
 ### Install
 
 ```bash
-> git clone https://github.com/NazwaS/termux-whatsapp-bot
+> git clone https://github.com/B4MBANG-94NT3NG/BTRXBOT
 > cd termux-whatsapp-bot
 > npm install
 > npm i imgbb-uploader
