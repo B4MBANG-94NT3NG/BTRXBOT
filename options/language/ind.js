@@ -51,7 +51,7 @@ exports.Badmin = () => {
 }
 
 exports.daftarB = (prefix) => {
-        return `──「 BELUM REGISTER 」──\nHalo kak !\nKamu belum Register nih, register dulu yuk... \n\nCommand : ${prefix}register nama|umur\nContoh : ${prefix}register Nazwa|16`
+        return `──「 BELUM REGISTER 」──\nHalo kak !\nKamu belum Register nih, register dulu yuk... \n\nCommand : ${prefix}register nama|umur\nContoh : ${prefix}register Erikacntg|16`
 }
 
 exports.daftarD = () => {
