@@ -101,14 +101,14 @@ const { limit } = require('./database/menu/limit')
 // Load Vcard Contact
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:NazwaðŸ–¤\n' // full name
-            + 'ORG:Owner Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=12542123926:+1 (254) 212-3926\n' // WhatsApp ID + phone number
+            + 'FN:BambangGans\n' // full name
+            + 'ORG:Pengembang X Bot;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waidw 6282313021398:+6282313021398\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 prefix = botPrefix
 blocked = []
 limitawal = userDefaultLimit
-cr = '*Verified*'
+cr = '*BTR-X BOT TerVerified*'
 memberlimit = memberLimitss
 
 // Functions
@@ -396,7 +396,7 @@ async function starts() {
 					ownerB: '[❕] Perintah ini hanya bisa di gunakan oleh owner bot!',
 					admin: '[❕] Perintah ini hanya bisa di gunakan oleh admin group!',
 					Badmin: '[❕] Perintah ini hanya bisa di gunakan ketika bot menjadi admin!',
-                                        daftarB: `──「 BELUM REGISTER 」──\nHalo kak !\nKamu belum Register nih, register dulu yuk... \n\nCommand : ${prefix}register nama|umur\nContoh : ${prefix}register Nazwa|16`,
+                                        daftarB: `──「 BELUM REGISTER 」──\nHalo kak !\nKamu belum Register nih, register dulu yuk... \n\nCommand : ${prefix}register nama|umur\nContoh : ${prefix}register ErikaCntg|16`,
 				}
 			}
     			const apakah = ['Ya','Tidak']
