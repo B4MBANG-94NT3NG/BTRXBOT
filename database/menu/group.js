@@ -10,13 +10,13 @@ const group = (prefix, botName, ownerName) => {
    ╿
 ┯┷ *〈 ABOUT 〉*
 ╽
-┠≽ *${prefix}info* (error)
+┠≽ *${prefix}info* 
 ┃ *Desc* : Show Bot Details
 ┠──────────────╼
 ┠≽ *${prefix}blocklist*
 ┃ *Desc* : Show Blocked User
 ┠──────────────╼
-┠≽ *${prefix}chatlist* (error)
+┠≽ *${prefix}chatlist* 
 ┃ *Desc* : Show All Chat User
 ┠──────────────╼
 ┠≽ *${prefix}ping*
