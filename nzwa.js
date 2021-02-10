@@ -577,7 +577,9 @@ async function starts() {
 			if (!isCmd && isGroup) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;31mRECV\x1b[1;37m]', time, color('Message'), 'from', color(sender.split('@')[0]), 'in', color(groupName), 'args :', color(args.length))
                      // Load Commands
 			switch(command) {
-                                case 'help':
+                                case 'help' :
+
+                                case 'menu' :
                                         if (!isRegister) return reply(mess.only.daftarB)
                                         const reqXp  = 5000 * (Math.pow(2, getLevelingLevel(sender)) - 1)
 			                const uangku = checkATMuser(sender)
