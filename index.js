@@ -2,12 +2,12 @@ console.log('[SYSTEM] Starting Bot...')
 let { spawn } = require('child_process')
 let path = require('path')
 const CFonts  = require('cfonts')
-CFonts.say('WHATSAPP BOT', {
+CFonts.say('BAMBANG|WHATSAPP|BOT', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('\'termux-whatsapp-bot\' By @NazwaS', {
+CFonts.say('\'termux-whatsapp-bot\' By @Sadboy.edtz', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
